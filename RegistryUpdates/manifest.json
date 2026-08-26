@@ -1,0 +1,38 @@
+{
+  "artifacts" : [
+    {
+      "byteCount" : 623386,
+      "downloadURL" : "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Generated/CardIdentities.json",
+      "filename" : "CardIdentities.json",
+      "sha256" : "2ef17cf97e9ca6089f7044b944ec3debcbb5c000a3e92ab9b0059f1092fdf61f"
+    },
+    {
+      "byteCount" : 3498722,
+      "downloadURL" : "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Generated/CardPrintings.json",
+      "filename" : "CardPrintings.json",
+      "sha256" : "3da2a3da36567750ce3bc57cf9fa85164cd8cbf5e379bcaf4dc800fcf79b3e49"
+    },
+    {
+      "byteCount" : 803676,
+      "downloadURL" : "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Generated/CardPriceSnapshots.json",
+      "filename" : "CardPriceSnapshots.json",
+      "sha256" : "648be3918cde13df7e26c357f8298e873610af9ccb68507a8ffe0ca6b0ea6103"
+    },
+    {
+      "byteCount" : 148179,
+      "downloadURL" : "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Generated/CardRegistryRepresentatives.json",
+      "filename" : "CardRegistryRepresentatives.json",
+      "sha256" : "abc20d2719b0b9e14a4ae54865dc50752b16f1e8537ff491cfd26c6d461a7bcf"
+    },
+    {
+      "byteCount" : 74469,
+      "downloadURL" : "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Generated/CardRegistryManifest.json",
+      "filename" : "CardRegistryManifest.json",
+      "sha256" : "ec5981475c31c1c226066cb43ac3f8fb8d703bb72caa6c614f455d76861bb96b"
+    }
+  ],
+  "publishedAt" : "2026-08-18T22:45:00Z",
+  "registryDigest" : "f74bce2cbdee8eb1012303a0d1c3566c69906d0c5b60757423c308ca910e6f2f",
+  "releaseID" : "MM-DATA-009-bootstrap",
+  "schemaVersion" : 1
+}

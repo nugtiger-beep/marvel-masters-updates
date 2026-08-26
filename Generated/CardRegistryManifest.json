@@ -1,0 +1,2686 @@
+{
+  "configurationDigest" : "870d4653ca056e320981841ef1c68899f5b631d9ce490ba0bbedb0fa44ebf57d",
+  "deterministicRegistryDigest" : "f74bce2cbdee8eb1012303a0d1c3566c69906d0c5b60757423c308ca910e6f2f",
+  "importerVersion" : "MM-DATA-009",
+  "marvelCoverage" : {
+    "alternatePrintingGroups" : [
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "005ee549-1bf5-478f-bc3f-3e791bd7eecf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0070db93-142b-4d04-afd3-836792dc134b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "00b50215-e832-417f-9c80-2bc3050b6ebb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "00c0543c-2a1f-4425-8283-4062d74a1637",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "027dd013-baa7-4111-b3c9-f4d1414e9c45",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0334a2f8-a74a-44c9-ba64-d9b7fabe160c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0389b48a-e64c-44fb-8a41-fd571cba237c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "03bf7a90-78c1-4e83-8553-e22d85e49876",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "03c47f1c-02a7-428c-a126-9e85325ebc71",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "03d1a4e9-3ebc-491f-8741-5d933b500abf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "04b907bf-c80c-4e92-9fea-26dc3d1aaf2a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "064a2f4a-ff3f-4622-8727-24b22965416d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "06e9287b-56d4-443e-97ba-b5dcdc4fa989",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "06f42f49-32f0-413b-8437-b8efa4d647c2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "06f647a7-ee53-42bd-8c73-53a0c6ede34a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "072d05c4-e0d7-47af-b2a9-16b90810fd30",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "085016ee-4429-453f-b7f3-d61065f1214e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "0866a630-d962-4aa9-a15f-08b2947540ef",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 6,
+        "oracleID" : "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+        "printingCount" : 6
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "090d815b-b2c8-48cd-a0b3-dc662d5352ac",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "09cc8709-fe10-472a-b05c-e89f3523018d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0a28dff0-2bd6-4105-b73a-b6c4735833fd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0a744206-04c4-46cb-b64d-cf192c9324df",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 5,
+        "oracleID" : "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+        "printingCount" : 5
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0c85b8f7-0bd0-4680-9ec5-d4b110460a54",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0e25faa2-efb0-4ca5-b280-18c38faa860c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "0f0282c6-aceb-4879-8ec8-482d0501204a",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0f7c7035-e395-4da5-8536-9f192d03e3ba",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "0fd57894-b917-41c8-a394-360d1d31b236",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0fe6c042-1182-4392-8938-fee36149d74f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "0ff9c0cc-4fb3-4117-9a8e-5b51f62306c4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "10777360-c046-43e3-ab44-9d0b926fbbf8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "10c8cf3b-2530-49e7-b38e-95cdaae8a6e7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "10db57b4-f895-4514-b610-2252ba676353",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "10fe402e-8d6f-4058-9f42-86f229055359",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "11bf211c-95a3-4e7f-bd08-13f979d54e73",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "11d74dc2-8c11-4d4b-b727-8216d2eb6b4e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "127f6985-c1f4-487f-b5ee-c84524cd6c55",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "12d51534-a98d-487b-9ba9-c10861dff992",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "13ab2f3f-f65e-42b5-b743-39b30a4c4751",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "13fd7ca6-c278-409f-a9c4-57f16051ffce",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "14c356aa-178d-4c14-a88e-fbe92ee6d89f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "15948fdf-3f9e-4eed-b85b-c5a554ff0571",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "16437a83-be52-44cd-a768-a767c9347eb2",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "171a0a09-4aee-466c-aebd-3b0d4c1f51b4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "17770eeb-ecbf-4510-af2d-acececfbe146",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "17e45fd8-c924-4b42-87ad-189469a8dd18",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "18290c4b-cff6-4ee5-a487-fe0d5706d3de",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "182baad0-ec6e-4e93-9dfc-7c80b37005de",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "19504e19-2886-4d28-a813-b798a9a446a2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "197582b9-4c86-41a3-ad0c-789a0db8e087",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "19845456-3d96-48a4-89fa-9b8e583774c9",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "1ad83cac-2c85-477b-ab00-1369f9683db5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1bea6d02-186e-46d8-b788-d4cc37dbb480",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1c7c1867-20cb-4035-bb2a-42760edf0a55",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1ce239f2-79ad-4a30-8e8f-f985045f78dc",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1d453331-6b8e-4d3d-b658-683eab2760da",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1df7a09f-fbc8-4c2a-a903-bab9e680eda7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1ea7b298-be87-4032-9f45-37f9b39ce3fa",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "1f91297a-ec2b-4ea8-9198-aa1daac20ff8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "1fe549c3-79be-40ef-b57c-de59f24df5ab",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2031b17c-0536-446f-a9aa-b46fe79b7ea7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "20418984-bc6d-42e5-ada6-30b5281925c0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "21fa2442-6eac-4dce-a9cc-76f0053fdb8f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "223504ba-174a-46f2-a4a2-5d663a82dfd3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2283729c-11db-471c-9f63-46092c97bd00",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "23732d20-aba6-46cc-89d0-0542629bc6b5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "240410a0-3288-4336-b1ad-34936e64ccf2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2469c0b7-a045-4733-bf53-28f3fdbe3797",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 5,
+        "oracleID" : "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+        "printingCount" : 5
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "25012c1f-c069-43d7-b930-a3a5a7eb1389",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "25443ea4-3177-4e29-a2b1-f3fee60b3205",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2624b5c5-ba59-4e20-8e66-e463268366e4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2648559d-1d96-47d2-a769-cfa2cbca2be5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "273ad15c-366a-4691-978b-d6028b57005a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "27b047e3-0d41-45e2-98e9-9391d7923a1e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "2842217a-173e-4879-8b25-fefe2fc1123f",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "28d500ea-720f-4332-891e-404fb03acb5c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "294b2aa7-cb46-46bd-8241-69b26d73aa2d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2a6abd59-e448-46f1-9af8-bb9040645971",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2a9f2d69-328c-46f4-be37-60b85b197b72",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2b7c4dab-e432-4b34-b058-3cec5c0d72df",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2b87bcac-ec64-4012-9e75-f459d3640eb3",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2bc0821a-5a8f-465d-8532-3fb5c5d11d8f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2c11c72f-5b04-47d8-bdf8-8d9d197ebc1b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2e1bf860-22b6-4d08-9b9f-88038cd1dd3f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "2e665a03-bece-43df-bd15-b4496e233f2e",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2e677ded-7af3-4af0-81df-b70d6ee616ec",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2efd6494-c5e1-41de-bc6e-8490ff046cd1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2f4360f6-9ac7-499f-b0a5-769550ea15ba",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2fb0f2d2-ed1f-4181-91f2-684a71c34998",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2fb76cdf-438b-48f5-aceb-db637381d052",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2fcb1c1c-6157-4955-b899-e8a8b337d188",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "2fe0ebf5-52ed-4e92-9b93-81e9ae564439",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2fecfbef-e521-4025-94ea-451c9abde3de",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "2ff5a5ed-d6db-4dfa-b1fd-38ad872ad30a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "31cae00a-3a74-4a59-80b0-a656f524e878",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "32aee76a-e738-4898-985a-801d1cce15ea",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "32b03b48-06da-4a74-a7ac-e5ae39a4f428",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "32c14d7f-fdaa-4340-af94-1f10bf064f51",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "33d556c5-1bb4-49bb-88c2-627311eb8c9b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "33fa949c-f29e-4a98-9381-ecfa9e5c3f6d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "34493cf5-7586-48ef-806d-57273b2ab034",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "3477e1cc-46af-46f4-9ea2-bdf0bf1f880e",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "34994475-b914-44f6-8ca1-c2747b6d5956",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "3567c3c8-b3c7-45b7-935b-b1fdbc973720",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "36396a14-9d0b-4670-bf8a-5c346fdda197",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3688ad0d-653b-4d5d-a57e-444db679d83e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "369aa9a6-af8a-432c-adff-ced2bb203dc7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "36b58705-c5a5-4547-8d8b-a7c35e1f69ae",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "36cd2364-d113-47d1-b2c4-b088d9eb88dd",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "376c6257-4a1a-42d4-8931-72068f38727f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "376fa374-ead1-4728-ab8b-aca230b72031",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "37827e84-9f5f-49ed-b939-0cf80dac82e7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "390f1b56-264e-4336-83be-dc1fe79bfdcf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "3b23e4f8-882d-4cce-9b61-171ae2cc3a18",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3b7352e6-6508-491c-9935-426a6eebb429",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "3bfa088c-9a47-4123-aee5-4de44e355bef",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "3c02d725-a05e-4086-9caa-ddb005d7ae18",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3c322d99-2bc4-4618-aeb3-5583fce54f1b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3c7bafe9-80cd-48d0-bcae-e7910c9fb83b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3c87ea85-ca29-45a7-b5b2-758c62898b0a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3ceac6ce-acde-42ab-b79d-ff153074d2d8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3d5c98ff-fcf1-42bd-9533-2648791a4f45",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3d917331-9f49-4d0c-bb2d-4853e3ff6ca1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3db16fb8-5650-4568-b975-42ad3d44ebcd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3e2bfa3a-ae83-453a-8e3f-ca6205a9af12",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "3eeeb159-aa45-4a9b-9618-8542604b9830",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3f2ab9ff-10b8-494a-be7a-2fce172f62a3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "3fe1530d-bcf2-440b-a905-5a2216daa7eb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "402ec768-76fb-474e-ae74-babc90d833c4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "406eabe2-df62-49e2-bb39-c0227509d875",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "406f1982-5d0c-4dba-9010-28b1c6a3602c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "40760bfa-a423-487c-ba29-043b2d00c736",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "40b43763-3fbf-4ecd-8187-5d2c2c9cda82",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "40f664d8-4c73-44aa-8fb1-d38771a42520",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4232995b-68c0-4514-8cde-bc62b9d1cbaa",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "431c5b04-7387-4724-adfa-d1eb7874e79e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "43306a78-85b5-4df4-a018-75dd75aa8997",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "436501ca-0998-43fc-975f-87c2d34caab3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "4457ed35-7c10-48c8-9776-456485fdf070",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "44c2fefb-5de3-4406-955a-3fabc46357d0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "456dbec4-1b0e-48c4-abae-5c8205651872",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "457af74a-02b3-4659-846d-63e482667f34",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "458d2b12-f578-4392-98d3-c3bc83f316c4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "45f91d6a-eaab-4179-ac1f-5dc9e647a3da",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4644013f-c96a-450e-a7bc-ddfa7a563050",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "47654b36-b215-4333-aa70-d88d627447e3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "48d1b217-b068-468c-bc6c-4bef9e44cc6e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "48deff27-b421-430b-a484-55b4a593010a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "495e52e6-4c2b-4574-9474-eadbdcc8b4ac",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "4a46ea59-6c5d-4bed-9951-b5590f9a1bdb",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4a75ef46-c5ae-4b1a-a681-d439b01f6731",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4a9d36eb-db72-459a-8de9-6d04a1d7563c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4b706959-ea38-4808-870a-7c35d83f7ab2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4b7a8c05-15cd-452e-b9fc-83800e81793d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "4b96c22a-0d5b-44fd-b326-5f3ffcc3917b",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "4bdfc580-de51-445b-b170-8c6832e44704",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "4c3ad545-b375-44a7-a24e-58baacc4e4b6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "50477dc8-9a2a-41eb-984d-c9e1e78e08a2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "505231d8-714f-4c5b-a635-d1662bd18a78",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5063703b-ddb3-4680-8b16-4cd342dc7d0c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "52714c3c-6821-44dd-88ba-813554df9914",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "52ec472e-a745-4e25-b9a7-8e1eb8873594",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "53129de9-4809-4c8c-9d11-37369899e70a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5330e24a-8568-446e-840a-594cd08bd1bc",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "539f5396-d99a-417d-a84c-dff7930b5900",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "544c9ad2-86f9-483e-a53c-f64c8602c393",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "54917578-9493-499e-b200-51d5cf7978ff",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "557ce9d4-8fe3-4ffc-8e56-b9b73d58d41b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "55b88d43-ec45-4435-a316-1c8aee249ff0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "55f7b005-31ea-4865-a8f3-460d15bed795",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 7,
+        "oracleID" : "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+        "printingCount" : 9
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "56f1a16a-9f41-41fb-b580-c200bca27cd6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 4,
+        "oracleID" : "579f9a86-a1af-4c2a-a7e5-8fea0bd0eb61",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "57d02dc8-e22e-4874-9f02-490a2528a28f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "58b771d4-dfaf-4189-a5f6-4bc0fb4c0fa3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5917216f-5b42-41fa-8976-401bdbeb782e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5998f07e-01f9-4d02-94dd-867c7166463f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "5b6f2770-e774-4a77-801f-a3fda093c3dd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5b7bbc76-22cc-482e-8d65-34cff34c93c8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5c30a92b-2e88-4e66-b0a5-fa05304136e7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5c87e2fa-77f1-4978-b25f-f14d227301d1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5c94b616-8edf-465c-b316-4599df95c52a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5db9121d-934a-44f1-b178-b389c6595af7",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5dd0cc44-4647-4857-ad3b-22494099d08a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5dec1b09-4df0-4e9b-9dca-b80134be3343",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5ece7d03-9ee7-4953-a06e-9d8e41874903",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5ef8925c-5f43-49ca-83f0-e2ca8e655600",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5efce07e-24c4-4520-a46f-9954b67c4e6e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "5f143d87-35fb-40e3-94ae-f85cfff9adb5",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "5f8941d8-f8f7-4ec3-86c3-88af8829080b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "5f97d49c-d0fa-4776-9455-93c1a172cd83",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "616312a9-83c8-4fb7-87ce-079ccd3231fa",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6257c2fd-005f-41e3-8a72-af76df1eb134",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 4,
+        "oracleID" : "62916107-14c0-4516-9fed-a032b1a80e5d",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "63398c02-6fb1-481d-9d9f-81063532fbc0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6344c96a-efa5-4125-8219-d333228391cf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "636cc915-9d1b-4ffe-9e74-795b78663911",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "63788566-e25a-44bb-bb55-197e1b93b3e8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "63e17cbd-6dae-42d2-a074-7924db1477bf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "63fd2a57-7a47-4e07-947c-f4e9da7ee538",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "64132f93-66ac-4794-8c07-a88f9ed0e22b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "645dbd86-fe30-4897-a3ca-633f07ec5b54",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6467cbb7-1e4e-482d-a20f-6cb9fc0f1ad1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "64ffe529-ba53-48ec-8af1-b046fbd1f0cc",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "651dea9c-2375-4e44-8e65-ba8e40f0c0ef",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "657c5473-f153-4dd2-94a0-d477cbc2451d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "65986c1b-8e51-4604-b685-d82fa7d1263a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "65a64759-3a93-4542-84fc-3af5ccb741f4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "66950068-adf4-42d7-ad72-fdb4a0e58922",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6731d861-cc52-4a2e-8c33-154681fd50e4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "67aa946d-e694-494e-ba0c-44880d5bc03e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "67ab82de-1167-42f5-90bd-21c63edcc712",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "67af9477-82b2-459e-8c09-b9a93a1d1c94",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6a1bce89-0c11-4d8d-aacb-c0a5a5effffc",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6a6c5e17-6465-4a1f-9d63-8a3ce2edc522",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6a84eda1-7e72-4b5a-849f-b6e177565aeb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6ad2cbb6-2291-420c-bfc8-ed3f079b59bf",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 7,
+        "oracleID" : "6ad8011d-3471-4369-9d68-b264cc027487",
+        "printingCount" : 7
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6b59bb1f-f2d4-4d47-bd57-23927d588381",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6b78e417-44f8-4ab6-9d3c-e71704fc648e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6c7e4e51-099a-4398-a4b7-e2f0ddd36429",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6d3469dd-d39e-463b-9b41-2f6215a41feb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6d44c87b-8945-4c39-b034-7690cf483992",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6d51f00e-46a5-4064-a0c8-e840c66dbf2b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6d86d783-7116-4426-8c0f-718c2d904887",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6e53a43e-5a23-4057-9bb5-281508da57af",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "6efae65b-5ae5-4f62-97e7-cd4d1249fa9e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6f2ba142-5e7c-4709-ae03-e028cb2a9872",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6f4c94b6-f829-4646-a574-083997b78dfb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "6fa27f8a-bade-460f-853a-abc1c05c946a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "700ef9c8-698b-45f7-a1fd-dec74e553224",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7069d241-4e66-40bf-afd1-551a4a5457f0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "7137aae6-260d-41de-8b4e-42a8cf752697",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "71bc69a5-7cec-4abd-b97d-13f8e1f9afac",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "72101185-4336-480a-b4d7-f8ceb0007a51",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "722ab6e4-a2e0-4aaa-a050-7b6436e22b40",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7324abaa-48da-439d-9339-b0ea5eea612e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "7324d8c0-3a30-452b-b05d-ec7b6a98666c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7351fca5-8672-4ba3-a015-bd4b6b289efc",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "747f6d0f-3c10-4fef-b7ae-f578c8964ab5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "75ec25b3-ae91-46be-af8b-2649727638f4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "761cb262-f83b-4a99-9345-b773182a7671",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "76742bfc-ae99-4b06-b29d-e0e41d92ae14",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "7735eeba-693b-47e2-bd51-414379cf1016",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7785ffd4-f169-475d-9558-ce4877b3378a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "78019626-1154-483f-b862-73982f9ddc7f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "78541a40-c27a-49c0-aa3e-5a48b97065f0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "787e6a7b-64f9-48ba-bccd-68dda3489b0f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "78826359-fe63-44ad-adc4-a17ffcd710e4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "78db3190-59bc-4033-95bc-32d8ed872b6a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "7be47440-b627-411e-a28f-d5a92e5e2fb7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7c47876d-143f-4e4c-b151-90c099e452a1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "7c854a07-e031-458e-a335-9c31865020b8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7d038055-035d-4698-b6b6-e2859bf2f1d1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "7d27c583-469c-42d7-a547-8c65654e9d95",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "7ef7d902-1f05-40b3-8997-dec197b0b678",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 4,
+        "oracleID" : "7eff84f1-f772-497a-b350-bbc93d0230f7",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "7f9a8845-d760-44a7-a4c9-8a20dba4e14a",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7fa5237e-dd79-4646-b935-cb8c6ee803ab",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "7fbe9056-190f-40a1-bee9-59ebd6f981f5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "80312910-5d53-44f1-9982-e46dc7532abb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8147a759-e387-48f6-9c1e-bb39622ed553",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "819e1765-8325-4e6f-89c1-63ea86de369f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "819fc966-434e-470f-91e9-a38df974ad17",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "8255a797-ddd3-4db0-a3f5-dd8f38c3b908",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "83b43aba-bf9c-4da2-967d-9daa632e97d2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "8429ba6a-6c06-4a83-a6ee-023b64b825f8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8430ae03-2d4c-4031-aa29-4d53815ded78",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "855318cb-9382-4183-87c7-93bdfac86431",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "855353e2-b686-482a-b987-c6ae456f088c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "858f53ef-3fec-4aa0-867d-b7f040614b3c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "85dec6cf-6f27-4eb0-834b-5f6fbbe25fc8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "867b3923-692c-4444-a071-518a290e43d8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "87f1a840-021c-4699-a2c4-f2926daf98eb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 5,
+        "oracleID" : "88aadf60-91f9-4932-a2bc-63365a139d36",
+        "printingCount" : 5
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "89115ed5-95bf-4b81-b352-5481c3addbed",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "89931cf0-f20b-49b5-88c6-2a92aee8c50c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8a09d4a2-4796-4a15-ab75-a3a0b717f62d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8a29bd35-33ef-4317-9fe5-8aaff5d7d64d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8ae1bda5-8f70-48ec-9df0-89e58a4ab21c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8b205480-b1fb-490c-b1c9-cf5cc3c5acdb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "8c4da760-8913-46ca-b00c-bba6d877d482",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8c72d54e-97a6-408e-ae77-18d3c96b3bd8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8ca585b5-25c4-41cc-a0b9-dc66ae803d04",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8dcb35e5-ae44-455f-86e3-4a77d496ff34",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "8dd929cb-0fe1-4cb3-bc8d-96ca37f194f3",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8e51fdb8-4f83-4e94-b36c-40a501075ecb",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8eaa8833-ab9e-4bd8-92de-63e195b8d912",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "8fbfc5b1-2146-4d07-a5fe-5f025da31bd6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "905e4bd1-f5f2-4691-b13f-ce2628d26a38",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9138a768-d01d-4603-9bae-d3bff6cd2f61",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "916cf34a-fd2c-47fe-bebb-f7b52b3dabed",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "91accef6-378f-4777-ad58-fa1af7893d8a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "92ac307e-6531-4465-8870-07988458f5d4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "92cfba68-12f6-4f97-9187-0f6a39656a0f",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "942ac2ac-7528-4768-8398-8520a8ee15e5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "94f6c407-e665-4032-be13-a01e40c1f306",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "95161e23-e4c4-411f-bce5-58a02abc0958",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9516c4c1-d72d-434f-97e1-6a862434a169",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "958d81c2-ca09-4275-890e-3bb595317325",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9684447a-5955-4bc7-8ad0-8bb8b316873b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "981298e6-ddee-49c0-9377-f47f019b4138",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "98492d7d-3b9e-4ae1-ac45-1b508d6d2670",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9984d950-29dc-4d6b-8750-8d1bf86ea98f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "99c70f4e-de8a-426d-99aa-17b2f87625ba",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9a02a9a7-39d9-4763-85d3-747a0540b60b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9b0abb58-4e2c-45dc-99b1-61a4cb79354b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9b6d3dcf-aa5a-4516-bd48-a0723e86bfd1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "9b9b086c-d201-4574-a1e9-0d6f8de53d7d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9bd013df-ad75-4099-940b-1765c58faf26",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9c58d241-4d9f-4b46-b8ee-f4587f9acfd6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9c9cd0fd-bfe9-409c-a9a9-146f5f4a2ef4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "9e4656ba-c375-4ef8-ba1d-5a7b0833242f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 4,
+        "oracleID" : "9e4fa592-71f8-4c71-8c91-78e6326cd736",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a0037ff8-64db-45dd-bba1-db5c49095083",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "a14a838a-49f4-45e3-9ec0-3c803af45a68",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "a16037f2-a0f6-465d-8d6e-cec34b4a6320",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a17a92f7-e95c-4d0e-a43e-7e6b41a59139",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a30f30e3-dbbf-4cb2-b3d0-76f57dffb2dd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a332e80a-dc51-4dc6-bc85-e114a1c6fdb8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 9,
+        "oracleID" : "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+        "printingCount" : 19
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a45bb088-16fd-4d91-8fd6-3c52f1c24748",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a5a18764-eb29-4bd8-a2e9-0ce55f4f6c88",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "a5dfa7ad-9637-4da8-9ed2-0ac863617d9a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a6a7af21-e52c-4f7f-a57f-bd365d075966",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a8011dce-17fb-46e1-8297-81a4acccbd05",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "a82d855c-50c8-43f2-99ba-a84fe84539c5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "a8f25e67-2112-4355-9298-363ed04a5cb8",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a93a8edf-2879-4cae-b3b9-b46298270823",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "a97e760a-99c8-47ea-a875-451aca913ee7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "a9d288b8-cdc1-4e55-a0c9-d6edfc95e65d",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "aa5b06a4-90c3-45e7-ab83-cb5c96ded21d",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "aa792980-0811-4c08-8343-00fba0c5cf5e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "abc3f55e-5fc6-44b3-a2f5-b8f49d93249f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 4,
+        "oracleID" : "ac1b6ffc-12a9-4d9c-a9fc-68a839a40738",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ac8cae63-270c-4f73-b29b-50f8f2395fd9",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ace8e88e-ca6a-4bdf-8c6d-1b914fc00259",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ad9d969e-def5-45a3-b65b-0c776f62ef0e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ae10eb15-28e7-46d1-9a2e-85763d93febf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ae91c16c-5267-4957-b36c-5aa787fa6b5e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "aeeb50f2-8e02-4d40-a1dd-28b1c5c85c7e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "af20f452-5cb9-47cc-9a81-71f23204ddd0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "afaef788-34d1-460b-b884-9d7ae6ddeb18",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "aff21bd1-87b0-409c-bfad-08f3690ef220",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "aff34f28-f707-4458-8af3-1bd5b13a6b10",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b08633e9-7b8f-4f69-a3b7-8d982b17574c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "b175e826-09e8-4fae-9f2e-b902f95b282d",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 7,
+        "oracleID" : "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+        "printingCount" : 9
+      },
+      {
+        "illustrationCount" : 7,
+        "oracleID" : "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+        "printingCount" : 9
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b43350a8-fc4d-41ed-becd-f0277512bb5f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 4,
+        "oracleID" : "b46647a1-0c91-451b-8c0b-be8fe02faee2",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b4f35cdd-3857-4a7d-8ef6-df5424dd40e7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b5b43d01-fce6-4a00-9c19-7a7e2a09d833",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "b6c0ee14-2028-4e8b-9acd-ff78821bca9b",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b74c072d-77ac-460d-9d9c-75b25874f58b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b76ce131-e51a-445e-8216-00df5904ab93",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b8a627a1-d6d7-45d1-aeea-ff7b834cbb29",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "b8add484-8ed1-4a1c-aff9-dec65d60e4b1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ba944437-0b55-47cb-92dc-2477ce6726c3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "bc681ecf-2a52-4782-9a47-90f5a9f435d8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 7,
+        "oracleID" : "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+        "printingCount" : 17
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "bceecc64-96f1-4e7b-8904-0aef90377764",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "bdb769b5-c861-4ec1-ad6b-e2a56ca05fd1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "be02005c-0e37-4dba-ac8e-3c69d06bbec2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "be2b9c6d-4ecb-49ec-b276-4aa93c5dfc00",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "be48c721-bdc6-4f2c-96d6-82d934b31615",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "bec686dd-a9ea-4db5-bc20-8e40420b9a9b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "bfe0818b-ae13-4174-85c8-24b895d28df0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c03ca2e6-fcce-4018-952f-1c451ab92cfd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c09c424b-6aba-4190-9f55-f0307d746386",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c0efafc6-8ffb-4908-ae64-3f391722370a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c112852f-61d5-4b94-b864-c7d0b5333b29",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c408717c-e07b-484f-9c81-5666595adf81",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c4485bf9-e7ff-48b5-a983-02900939ee9d",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c4660b3c-a234-4a3e-83e7-e2fa9d556685",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c46d6f42-5e50-4c0d-8908-360337285f83",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c48cf135-b280-4e9f-a9d9-225104870741",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c5126d6e-969c-4034-98e3-f8653163346f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c51ed6e3-813b-49c4-b1de-7f92a77f8f6e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c5c1fb0f-b9cf-48a0-a4ea-e995e222e4b4",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c5fc8e7c-a87e-4586-a13c-d30e0a3aafbf",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c665544f-557b-4631-a1dc-39571470ca2e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c6815bbb-24a5-4c9f-bf30-6190bc766d05",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c7bdbf7a-8054-4e91-bb32-84f47e98553c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c81195d4-19c6-4cac-b312-7f5c33dff962",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "c867a778-97ef-4872-b890-b088b96a1281",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c8d74a25-78a9-46ad-ab24-97f6221fd8dd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c8da3262-826d-4ea8-bb22-06374bebefe5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c8de07d4-9bc1-4bfe-b5a4-0a58e05af022",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c8e0b90c-edfb-4024-9ed5-398966f4ac72",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "c91e64d4-e687-4ccd-a56e-796cff6e052c",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c96d67fb-359c-4439-aa1b-598d9bca2880",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "c9efec35-823f-4c78-be36-d1a57d8b6f44",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "ca204b66-8d0c-431a-8d34-282f7c2d17da",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cada2a1c-5db2-4702-9a57-cbe7da1bf208",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cbf5bd0a-20ef-4dce-9f70-13339d438ff7",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "cc187110-1148-4090-bbb8-e205694a39f5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cc20f910-03e9-4019-a62a-2e713ddb3c06",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ccaa44f2-96be-44e2-884f-c31baa3908d5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cd2888aa-71f3-47ee-ba33-7bb95d5bc836",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cd2c90ac-2b04-461c-92f3-939871b6b6a3",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cdcfc66d-3d3a-4311-b864-937e7b624d61",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "cf6d10ed-85c3-48f2-8ba0-2960e03b408b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d1620449-930a-4895-a143-fd2a0a3c8b17",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d2664f28-49e1-46f8-a863-b217e961a57c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d34affa9-3629-49e1-b1e4-4742aff6eafc",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "d3678fce-6897-4f2c-bf50-243facb6581b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d3a0b660-358c-41bd-9cd2-41fbf3491b1a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d473b507-8c33-4118-bc10-b0a268776074",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d4b5e09b-9ca2-4b51-a4f8-080741810df8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d55cb52d-b35c-4602-a518-cd51f155a2d1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "d566d5f1-5abd-405b-8553-d267ecbe72ab",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "d57a8f0b-7989-4db5-8756-6f2690097252",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "d683d985-9888-4d21-8b5f-69e69ce4a03b",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d6f36172-d3ef-49e9-a55f-ce2983bb2439",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d79cbc61-6c15-48ea-bbba-3cffb819ccba",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "d7f3178d-7b7c-4346-af50-a7b0206bee22",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d7faa3c8-46cf-46b2-bfa4-89000307cf18",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "d812c8e3-a475-4ad2-a93f-7208ad873676",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d8863742-6c1c-415a-ad27-7def6d119c6a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "d8ae8c38-501e-44ea-9faf-cf9d11ba6616",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d8e585c5-1de3-4558-8a2f-0d9fb07edad6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d90a5213-3363-4cd1-97d6-4fc057f78b2a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "d911cf65-7273-4162-a766-7d4107699dc2",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "d9cc9fc9-522e-4598-9a09-c95824d77acd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "da6e24a4-8adc-41a1-b5eb-3e31dc1250c9",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "daca1d5e-349d-4e8a-abc7-427dab43fb0c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dae20bcd-dc24-4f9d-9400-a6f013b49f14",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dbaa70e6-26de-4ce9-9543-e652cbe387c1",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dc0593c2-ccb4-4648-a592-c5bcd121dc72",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dcb7e046-f01b-497c-88e5-57794eb30ce5",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dcd97730-b793-4c0c-b158-625ac3656b4a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "de861715-fd0b-493e-9a7c-c470a23044c0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "df3d5b86-7b75-4df9-8985-7159cde12261",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "df7abfb0-21df-4359-be81-0f3c09e1425e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "df81ecf2-b49e-4be2-8757-ee2050784c9e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dfac0258-e148-4d7d-8ded-fc2466d9caa6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "dfedb968-f27c-4117-aff6-da707dd43e82",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "dff11626-ad4d-443a-b7db-f508790b5fd2",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e017e323-e297-40de-bc77-dd49b610cf5a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "e05f23ba-f2b2-4c40-83fa-8defce3cb978",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e0b12c48-7234-40b5-a84c-6901d2b4e5b0",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e11839d5-99fe-4cc8-802e-be669ad274ee",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e119c709-bf9d-451e-827b-9787d455029a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e123fd7d-ace9-48a4-9510-eedcc837d8e8",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e1d294e8-67b1-4a4a-86b8-f98f28a327d9",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e1e96802-fd0c-41f1-aa21-3287d75a0e88",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e25062ba-7176-4d59-ac3e-26d19b26f02a",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e3233686-7703-460c-80ee-8cd37b3014ff",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e3955573-3db5-490e-903e-65e0172a9202",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e3c8cdf7-a26a-45eb-9498-99b618cfba99",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e715d33e-3d60-4623-b843-db0b906ae98b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "e74efcf2-d77f-4fb5-9027-77e462ec829e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e7a0b370-913d-4e96-8fb4-5df168405073",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "e8d0eafe-540a-4b2e-a989-e98ff3c31105",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e90d6903-5415-4ddf-88c0-15ddd8614bde",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "e9c9a445-4386-4616-ad00-f08064d73dcd",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "e9d20b6d-fa4f-473b-9866-230fd92a1319",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "eb54d807-624b-471e-8c44-07322003903e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ebbea7a7-c990-43fa-8f67-a5da17fbbb10",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ebcbfdba-34c7-40eb-91a9-d306ff5ae8b9",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "ebedff30-ae43-4861-aab2-afe1fc88337e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ebf8d006-2997-431b-b4cb-9692741b45ca",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ec8e310f-e871-498f-8d80-c3617c5e1433",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ecb8e283-5cdb-4e6a-bdff-546c1617363c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ece77a64-8d99-430e-8407-bdb321828d63",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ed14be15-8f8d-4fe3-a147-f5da8ed873bf",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "ee3dfdb2-07ef-4ce2-9806-0a5b7f19aa67",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "eea18c55-8695-4ba1-9b38-3e7638692f5f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 8,
+        "oracleID" : "eed5e0cc-8f88-4779-bf10-6a823c72df7f",
+        "printingCount" : 8
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f0371d3d-ca11-432a-bebd-684caad5781f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 3,
+        "oracleID" : "f15bd5c0-99ff-42c6-8eed-48de6df81b61",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "f1b7488c-c675-42e9-818a-24a50347ec2c",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f334087a-deda-4e9e-ab58-68f7e226d7ce",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f343b6f9-41c3-419b-a57c-a7b08603ef5c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f398a742-22c1-4da9-9d49-fdce2eb93d01",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f4310dfd-52eb-4c1f-b1ad-bfbc9b50fe7b",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f432eb6a-f1bf-4ce7-b915-1488dccb4bb9",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f536a518-160e-4267-89da-3d34accc6d2c",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f55a3781-fe33-4301-9bb5-6a54b9c13c4f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f5619a13-b229-4202-a217-bf6509706e77",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 2,
+        "oracleID" : "f5cdb413-2b72-4dc6-b93d-2532ac2ae568",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f62250c6-0832-46c8-a800-806589504f5f",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f7d11254-b48a-4016-a035-c0d6642fdfae",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f808b510-907a-4c3c-aea1-efb825c8e13e",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "f93fa6ec-1f13-4109-aa60-11e148f7ba88",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "fb5a3403-7f0b-406c-8c4f-d693be010ca6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "fd15e02a-dd1e-42ee-8c69-a3e5bcb5ede6",
+        "printingCount" : 2
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "fe00278d-4385-4e3f-919c-12a794fd86f5",
+        "printingCount" : 4
+      },
+      {
+        "illustrationCount" : 0,
+        "oracleID" : "fe01c96b-eb78-4477-bec2-944b2a28c778",
+        "printingCount" : 3
+      },
+      {
+        "illustrationCount" : 1,
+        "oracleID" : "fe7cc414-42d0-4dad-8516-7a0be0860a67",
+        "printingCount" : 2
+      }
+    ],
+    "borderlessCount" : 367,
+    "doubleFacedPrintingCount" : 34,
+    "finishCounts" : {
+      "foil" : 1560,
+      "nonfoil" : 1738
+    },
+    "foundSetCodes" : [
+      "mar",
+      "msc",
+      "msh",
+      "sld",
+      "spe",
+      "spm"
+    ],
+    "frameEffectCounts" : {
+      "enchantment" : 156,
+      "extendedart" : 280,
+      "fullart" : 14,
+      "inverted" : 331,
+      "legendary" : 764,
+      "showcase" : 41
+    },
+    "fullArtCount" : 249,
+    "identityCountsBySet" : {
+      "mar" : 94,
+      "msc" : 616,
+      "msh" : 281,
+      "sld" : 68,
+      "spe" : 26,
+      "spm" : 193
+    },
+    "illustrationIDCount" : 1785,
+    "languageCounts" : {
+      "en" : 1819
+    },
+    "largestPrintingGroup" : 19,
+    "printingCountsBySet" : {
+      "mar" : 100,
+      "msc" : 866,
+      "msh" : 453,
+      "sld" : 88,
+      "spe" : 26,
+      "spm" : 286
+    },
+    "promoTypeCounts" : {
+      "boosterfun" : 131,
+      "bundle" : 4,
+      "buyabox" : 1,
+      "cosmicfoil" : 2,
+      "dazzlefoil" : 2,
+      "headliner" : 2,
+      "poster" : 26,
+      "raisedfoil" : 5,
+      "sldbonus" : 20,
+      "sourcematerial" : 100,
+      "surgefoil" : 314,
+      "textured" : 7,
+      "universesbeyond" : 1819
+    },
+    "requiredSetCodes" : [
+      "mar",
+      "msc",
+      "msh",
+      "spe",
+      "spm"
+    ],
+    "speIdentityCount" : 26,
+    "spePrintingCount" : 26,
+    "variationCount" : 0
+  },
+  "outputFileSHA256" : {
+    "CardIdentities.json" : "2ef17cf97e9ca6089f7044b944ec3debcbb5c000a3e92ab9b0059f1092fdf61f",
+    "CardPriceSnapshots.json" : "648be3918cde13df7e26c357f8298e873610af9ccb68507a8ffe0ca6b0ea6103",
+    "CardPrintings.json" : "3da2a3da36567750ce3bc57cf9fa85164cd8cbf5e379bcaf4dc800fcf79b3e49",
+    "CardRegistryDiagnostics.json" : "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d",
+    "CardRegistryRepresentatives.json" : "abc20d2719b0b9e14a4ae54865dc50752b16f1e8537ff491cfd26c6d461a7bcf"
+  },
+  "priceSnapshotSource" : {
+    "acquiredAt" : "2026-07-28T12:21:45-07:00",
+    "sourceFilename" : "default-cards.jsonl",
+    "sourceProviderID" : "scryfall"
+  },
+  "representativeCount" : 1176,
+  "schemaVersion" : "1",
+  "sourceFileNames" : [
+    "default-cards.jsonl",
+    "oracle-cards.jsonl",
+    "rulings.jsonl"
+  ],
+  "sourceSHA256" : {
+    "default-cards.jsonl" : "e6207270fd28d950d9663acb3fb5afaaae74a35e2d4a037d5b68decbeb453732",
+    "oracle-cards.jsonl" : "85023d19d867a08b6b5e03c16169f060395ed580505ff72e6d832b8705434b71",
+    "rulings.jsonl" : "58b268a54936ebc458b928b0b1c5a2d5f6bb1a71b0b356c905c5ede79dbca9d1"
+  },
+  "statistics" : {
+    "artistCount" : 1819,
+    "borderlessCount" : 367,
+    "borderlessOrFullArtCount" : 392,
+    "doubleFacedCount" : 34,
+    "externalProductReferenceCount" : 1817,
+    "finishCounts" : {
+      "foil" : 1560,
+      "nonfoil" : 1738
+    },
+    "frameEffectCounts" : {
+      "enchantment" : 156,
+      "extendedart" : 280,
+      "fullart" : 14,
+      "inverted" : 331,
+      "legendary" : 764,
+      "showcase" : 41
+    },
+    "fullArtCount" : 249,
+    "identitiesGenerated" : 1176,
+    "identitiesWithMultiplePrintings" : 499,
+    "illustrationIDCount" : 1785,
+    "imageCount" : 1785,
+    "languageCounts" : {
+      "en" : 1819
+    },
+    "largestPrintingGroup" : 19,
+    "missingOptionalFieldCounts" : {
+      "frame_effects" : 604,
+      "illustration_id" : 34,
+      "image_uris" : 34
+    },
+    "priceSnapshotCount" : 2904,
+    "priceSnapshotCountsByFinish" : {
+      "foil" : 1209,
+      "nonfoil" : 1695
+    },
+    "printingCountWithoutPrice" : 4,
+    "printingsGenerated" : 1819,
+    "promoCount" : 6,
+    "promoTypeCounts" : {
+      "boosterfun" : 131,
+      "bundle" : 4,
+      "buyabox" : 1,
+      "cosmicfoil" : 2,
+      "dazzlefoil" : 2,
+      "headliner" : 2,
+      "poster" : 26,
+      "raisedfoil" : 5,
+      "sldbonus" : 20,
+      "sourcematerial" : 100,
+      "surgefoil" : 314,
+      "textured" : 7,
+      "universesbeyond" : 1819
+    },
+    "recordsAccepted" : 1819,
+    "recordsFiltered" : 114415,
+    "recordsRejected" : 0,
+    "reskinRelationships" : {
+      "conflictingIdentityCount" : 0,
+      "duplicateRelationshipCount" : 11,
+      "identitiesWithFlavorName" : 38,
+      "malformedFlavorNameCount" : 0,
+      "missingFlavorNameCount" : 1770,
+      "normalizedEqualSuppressionCount" : 0,
+      "printingsWithFlavorName" : 49,
+      "uniqueOriginalMechanicalNameCount" : 38
+    },
+    "setCounts" : {
+      "mar" : 100,
+      "msc" : 866,
+      "msh" : 453,
+      "sld" : 88,
+      "spe" : 26,
+      "spm" : 286
+    },
+    "setIdentityCounts" : {
+      "mar" : 94,
+      "msc" : 616,
+      "msh" : 281,
+      "sld" : 68,
+      "spe" : 26,
+      "spm" : 193
+    },
+    "sourceRecordsExamined" : 116234,
+    "validationErrorCount" : 0,
+    "validationWarningCount" : 0,
+    "variationCount" : 0
+  }
+}

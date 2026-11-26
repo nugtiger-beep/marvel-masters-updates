@@ -1,0 +1,21 @@
+{
+  "archiveByteCount" : 57024608,
+  "archiveFilename" : "UniversalCatalog.sqlite.lzma",
+  "archiveSHA256" : "6ac0fe0deedb68aa04f656ed39b244e02ca5ea317f0223cf6e18e3264c078c9e",
+  "compression" : "lzma",
+  "databaseByteCount" : 397643776,
+  "databaseSHA256" : "f490258edb22d3f69c27705ed7b3ef5ab1d3f8343d0e5702e47511cd037be09b",
+  "identityCount" : 37021,
+  "priceSnapshotCount" : 146891,
+  "priceSnapshotSource" : {
+    "acquiredAt" : "2026-11-24T18:59:58Z",
+    "providerUpdatedAt" : "2026-11-24T10:06:25Z",
+    "sourceFilename" : "default-cards.jsonl",
+    "sourceProviderID" : "scryfall"
+  },
+  "printingCount" : 104353,
+  "publishedAt" : "2026-11-25T17:00:00Z",
+  "registryDigest" : "4755434dbdbb9ea5bc4048a20091e9433899d7c386241b49a34aa702f96ad29d",
+  "releaseID" : "CC-MTG-20261124-HELD-02",
+  "schemaVersion" : 1
+}

@@ -34,85 +34,85 @@
   "catalogSnapshot": {
     "artifacts": [
       {
-        "byteCount": 820,
-        "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Catalog/CatalogSnapshotManifest.json",
+        "byteCount": 821,
+        "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Catalog/CatalogSnapshotManifest.json",
         "filename": "CatalogSnapshotManifest.json",
-        "sha256": "62aa5ee1bc4fd819c6e7589d7f360fb7e1222b87efd0da90925e92871f2cd8ff"
+        "sha256": "8096196e47e804366c030569cdd85ae8ca6b528e87f21aaaf8ce013f0a04d76f"
       },
       {
-        "byteCount": 56948304,
-        "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Catalog/UniversalCatalog.sqlite.lzma",
+        "byteCount": 57024608,
+        "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Catalog/UniversalCatalog.sqlite.lzma",
         "filename": "UniversalCatalog.sqlite.lzma",
-        "sha256": "54c5a57c56c228f3d7019eddec159fdd204222c0d98ee243fb86f88bd4e8fc5a"
+        "sha256": "6ac0fe0deedb68aa04f656ed39b244e02ca5ea317f0223cf6e18e3264c078c9e"
       }
     ],
     "moduleGeneration": {
       "artifacts": [
         {
-          "byteCount": 6678,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/MastersModuleGeneration.json",
+          "byteCount": 6677,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/MastersModuleGeneration.json",
           "filename": "MastersModuleGeneration.json",
-          "sha256": "94e3f3b81faefd028e8f3f73b98bf66bc881395de55cb4ac870d74091be6d630"
+          "sha256": "59fc7925f943beb3633fd2d2eeafb5b2fad34ae5f8a31c27baf7284be8e70b90"
         },
         {
-          "byteCount": 10591788,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/dominaria-block.json",
+          "byteCount": 10633322,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/dominaria-block.json",
           "filename": "dominaria-block.json",
-          "sha256": "e39348e03e488d057f9d7196adc977bd9d29624074581bbea6e1a28a29dfbfcf"
+          "sha256": "630a3bb479ba2d055488f60e9cb958d4ff92463b11271c7bd9206f911755bfad"
         },
         {
-          "byteCount": 692068,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/first-age-block.json",
+          "byteCount": 694627,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/first-age-block.json",
           "filename": "first-age-block.json",
-          "sha256": "49458c286caea4af45a8b860c10a644a32ccdabd0cedad3dbf6c22ba289ddb26"
+          "sha256": "1fd7441f311896bc34d25573801ed1fcd6b6d99125ad2a226026ab3370baa44f"
         },
         {
-          "byteCount": 1791199,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/horsey-block.json",
+          "byteCount": 1794788,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/horsey-block.json",
           "filename": "horsey-block.json",
-          "sha256": "b782ce0eb112b5a833ba8914d38eb2de33bbacb22d1513f268891797e466b5c1"
+          "sha256": "9c10a1a15b9a9182f8701c419a0306a5dede38741732694a94988756b2a5f4d1"
         },
         {
-          "byteCount": 6409558,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/marvel-masters.json",
+          "byteCount": 6412930,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/marvel-masters.json",
           "filename": "marvel-masters.json",
-          "sha256": "7872290184e3facb718f534633489382e0b1bc125ccd804ec8f3513617639285"
+          "sha256": "bbcebb87b921659a02aef54db27f733f24f339ccae61d0a2b7fabc90ff445831"
         },
         {
-          "byteCount": 984020,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/middle-earth-masters.json",
+          "byteCount": 987297,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/middle-earth-masters.json",
           "filename": "middle-earth-masters.json",
-          "sha256": "52221ac2838aa4ef5232563123dc1e509389feda0cc960bfae46199a978089ca"
+          "sha256": "a1595bc94029786c8b6ee4b671bc3a8697999299094e4a95df5b1a74d2d44d8d"
         },
         {
-          "byteCount": 31705843,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/modern-masters-block.json",
+          "byteCount": 31823290,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/modern-masters-block.json",
           "filename": "modern-masters-block.json",
-          "sha256": "d338eddfc66b3a77175c73dd1c9837b10f5748bc05e191dd91656f6b296f832e"
+          "sha256": "ccf248708406e55329cdf5b04426b47212841ac2456a6c84be964e512b95ae8c"
         },
         {
-          "byteCount": 8789961,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/premodern-block.json",
+          "byteCount": 8825931,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/premodern-block.json",
           "filename": "premodern-block.json",
-          "sha256": "0f57b6f58ebae14d6a5b16f9019c82efaf4268e099b485c31350017cb05396aa"
+          "sha256": "df8c730f0ddb2d1c4438ea50c117b03b59fe1d3a5c3b51a537cf18cb5fd2bc62"
         },
         {
-          "byteCount": 3985336,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/tarkir-block.json",
+          "byteCount": 4003915,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/tarkir-block.json",
           "filename": "tarkir-block.json",
-          "sha256": "69b152dd1c5547229777c03b66926420ec1e28d5aff8cbd1f649b5fead1fb7da"
+          "sha256": "8b589bffaa1cc816c1087c93ebc440b7b91135a02b877acc334f7efecc36a490"
         },
         {
-          "byteCount": 2063957,
-          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/2983552dc975ec7584a15503d252c7003cd63fb635849d9d04d81c21ecdbebd6/Modules/urzas-block.json",
+          "byteCount": 2076061,
+          "downloadURL": "https://raw.githubusercontent.com/nugtiger-beep/marvel-masters-updates/main/Releases/3fff9c96b6cecba4cfc973e53e6945d139295ae48afa0d89d7efa40405daf188/Modules/urzas-block.json",
           "filename": "urzas-block.json",
-          "sha256": "5267fcd58704012257abf4bf254ee273551c3f2608b367b1a86f6fd4daa41d4b"
+          "sha256": "aa011790221bf01acdaac47328a3929cfc1389701598fe51224bdaf79c01b7ef"
         }
       ]
     },
-    "publishedAt": "2026-11-13T06:32:39Z",
-    "registryDigest": "7d706ecc919871e00d97f0d3eec33b3b841fb29c8a777b4cd8dd45db0db2bce7",
-    "releaseID": "CC-DATA-018AG-20261112"
+    "publishedAt": "2026-11-25T17:00:00Z",
+    "registryDigest": "4755434dbdbb9ea5bc4048a20091e9433899d7c386241b49a34aa702f96ad29d",
+    "releaseID": "CC-MTG-20261124-HELD-02"
   },
   "publishedAt": "2026-08-18T22:45:00Z",
   "registryDigest": "f74bce2cbdee8eb1012303a0d1c3566c69906d0c5b60757423c308ca910e6f2f",
